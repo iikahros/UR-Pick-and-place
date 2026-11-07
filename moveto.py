@@ -9,7 +9,7 @@ SOCKET_PORT = 30002
 A1_X = -452.80
 A1_Y = 683.07
 Z_HEIGHT = 464.21
-SQUARE_SIZE = 56.78
+SQUARE_SIZE =57.2
 
 files = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
 ranks = ['1', '2', '3', '4', '5', '6', '7', '8']
